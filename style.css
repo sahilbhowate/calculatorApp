@@ -1,0 +1,26 @@
+.calculatorBody {
+  border: 2px solid black;
+}
+
+.calRow2 {
+  margin-top: 20px;
+}
+
+.calRow3 {
+  margin-top: 20px;
+}
+
+.calRow4 {
+  margin-top: 20px;
+}
+
+.calRow5 {
+  margin-top: 20px;
+}
+
+.eraseIconStyle {
+  border: 2px solid black;
+  height: 39px;
+  width: 35px;
+  font-size: 30px;
+}
